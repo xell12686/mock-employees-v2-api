@@ -1,7 +1,7 @@
 {
-  "name": "xelldev-json-server",
+  "name": "xelldev-employees-mock-server",
   "version": "1.0.0",
-  "description": "Fake REST API for testing",
+  "description": "Mock REST API for testing",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
