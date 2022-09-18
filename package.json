@@ -1,0 +1,17 @@
+{
+  "name": "xelldev-json-server",
+  "version": "1.0.0",
+  "description": "Fake REST API for testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "xelldev, json-server, heroku, node, REST API"
+  ],
+  "author": "xelldev",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
